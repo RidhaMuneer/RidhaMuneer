@@ -9,7 +9,9 @@
 ### - New technologies and reading are my pastimes.
 
 ## Contact Information 📫 :
-
+### LinkedIn -> https://www.linkedin.com/in/ridha-muneer-a2744722b/
+### IG -> https://www.instagram.com/ridhamuner/
+### Email -> ridhamuner@gmail.com
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
