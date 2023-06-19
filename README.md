@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Learning Front-end Web Development on my own 🌱
+## Using The Odin Project to do ⚡
+
+#### A software engineering student at the American University of Iraq, Sulaimani. 
+#### Always up for knowledge. 
+#### New technologies and reading are my pastimes.
+
+
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
