@@ -1,17 +1,18 @@
 ## Hi there 👋
 
 ### Learning Front-end Web Development on my own  🌱
-### Using The Odin Project to do ⚡
+### Using The Odin Project to do it ⚡
 
 ## About Me:
-### - A software engineering student at the American University of Iraq, Sulaimani. 
-### - Always up for knowledge. 
-### - New technologies and reading are my pastimes.
+
+### - A software engineering student at the American University of Iraq, Sulaimani 🛠
+### - Always up for knowledge 📚 💻
+### - New technologies and reading are my pastimes 🧑‍💻
 
 ## Contact Information 📫 :
-### LinkedIn -> https://www.linkedin.com/in/ridha-muneer-a2744722b/
-### IG -> https://www.instagram.com/ridhamuner/
-### Email -> ridhamuner@gmail.com
+
+### LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
+### Email: ridhamuner@gmail.com
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
