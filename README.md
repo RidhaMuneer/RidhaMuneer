@@ -8,6 +8,7 @@
 ### - Always up for knowledge. 
 ### - New technologies and reading are my pastimes.
 
+## Contact Information 📫 :
 
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
