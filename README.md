@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### Learning Front-end Web Development on my own  🌱
-### Using The Odin Project to do it ⚡
+Learning Front-end Web Development on my own  🌱
+Using The Odin Project to do it ⚡
 
 
 ## About Me:
@@ -13,8 +13,8 @@
 
 ## Contact Information 📫 :
 
-LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
-Email: ridhamuner@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
+- Email: ridhamuner@gmail.com
 
 ## Stack 🌐 :
 
