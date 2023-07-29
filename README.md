@@ -15,6 +15,14 @@
 
 ### LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
 ### Email: ridhamuner@gmail.com
+
+## Stack 🌐 :
+
+### React, JavaScript, HTML, and CSS
+
+## Other Tools 🧰 :
+
+### NPM, Webpack, Jest, and Linux CLI
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
