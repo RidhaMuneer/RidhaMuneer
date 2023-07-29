@@ -6,15 +6,15 @@
 
 ## About Me:
 
-### - A software engineering student at the American University of Iraq, Sulaimani 🛠
-### - Always up for knowledge 📚 💻
-### - New technologies and reading are my pastimes 🧑‍💻
+- A software engineering student at the American University of Iraq, Sulaimani 🛠
+- Always up for knowledge 📚 💻
+- New technologies and reading are my pastimes 🧑‍💻
 
 
 ## Contact Information 📫 :
 
-### LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
-### Email: ridhamuner@gmail.com
+LinkedIn: https://www.linkedin.com/in/ridha-muneer-a2744722b/
+Email: ridhamuner@gmail.com
 
 ## Stack 🌐 :
 
