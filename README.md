@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Learning Front-end Web Development on my own  🌱
-Using The Odin Project to do it ⚡
-
-
 ## About Me:
 
 - A software engineering student at the American University of Iraq, Sulaimani 🛠
