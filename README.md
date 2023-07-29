@@ -18,11 +18,11 @@
 
 ## Stack 🌐 :
 
-### React, JavaScript, HTML, and CSS
+React, JavaScript, HTML, and CSS
 
 ## Other Tools 🧰 :
 
-### NPM, Webpack, Jest, and Linux CLI
+NPM, Webpack, Jest, and Linux CLI
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
