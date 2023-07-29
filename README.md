@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About Me:
+# About Me:
 
 - A software engineering student at the American University of Iraq, Sulaimani 🛠
 - Always up for knowledge 📚 💻
