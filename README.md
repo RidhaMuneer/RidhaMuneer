@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 ## 💫 About Me:
 Front End Develop<br>Software Engineering Student
