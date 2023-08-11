@@ -5,7 +5,7 @@ Front End Develop<br>Software Engineering Student
 
 
 ## 🌐 Socials:
-<a href="ridhamuner@gmail.com">
+<a href="mailto:ridhamuner@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=mail.ru" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/ridhamuneer/">
