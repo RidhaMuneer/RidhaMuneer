@@ -20,7 +20,8 @@ Front End Develop<br>Software Engineering Student
 
 ## Other Tools 🧰 :
 
-Webpack, Linux CLI, and Jest.
+[![Webpack](https://img.shields.io/badge/Webpack-Bundling-blue?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
+[![Linux CLI](https://img.shields.io/badge/Linux%20CLI-Command%20Line-success?style=for-the-badge&logo=linux)](https://www.gnu.org/software/bash/)
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
