@@ -39,6 +39,7 @@ Front End Web Develop<br>Software Engineering Student
 [![Jest](https://img.shields.io/badge/Jest-Testing-critical?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![npm](https://img.shields.io/badge/npm-Package%20Manager-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-Hosting-brightgreen?style=for-the-badge&logo=netlify)](https://www.netlify.com/) 
+[![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)](https://git-scm.com/)
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
