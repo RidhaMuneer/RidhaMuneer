@@ -4,7 +4,7 @@
 Front End Web Develop<br>Software Engineering Student
 
 
-## 🌐 Socials:
+## 📞 Socials:
 <a href="mailto:ridhamuner@gmail.com">
   <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=mail.ru" alt="Email">
 </a>
@@ -12,7 +12,7 @@ Front End Web Develop<br>Software Engineering Student
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-## 💻 Web Stack:
+## 🌐 Web Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
