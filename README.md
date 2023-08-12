@@ -23,8 +23,8 @@ Front End Develop<br>Software Engineering Student
 [![Webpack](https://img.shields.io/badge/Webpack-Bundling-blue?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Linux CLI](https://img.shields.io/badge/Linux%20CLI-Command%20Line-success?style=for-the-badge&logo=linux)](https://www.gnu.org/software/bash/)
 [![Jest](https://img.shields.io/badge/Jest-Testing-critical?style=for-the-badge&logo=jest)](https://jestjs.io/)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+[![npm](https://img.shields.io/badge/npm-Package%20Manager-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-Hosting-brightgreen?style=for-the-badge&logo=netlify)](https://www.netlify.com/) 
 <!--
 **RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
