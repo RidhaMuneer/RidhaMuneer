@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ## 💫 About Me:
-Front End Web Develop<br>Software Engineering Student
+Front-End Web Develop<br>Software Engineering Student
 
 
 ## 📞 Socials:
