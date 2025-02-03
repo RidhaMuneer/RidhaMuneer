@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 ## 💫 About Me:
-Full stack Web Developer<br>Software Engineering Student
+Full stack Web Developer<br>Software Engineer
 
 
 ## 📞 Socials:
