@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ridha Muneer
 
-### 🚀 Frontend Developer | Software Engineer  
+### Software Engineer  
 
 📍 **Location:** Iraq  
 📩 **Email:** [ridhamuner@gmail.com](mailto:ridhamuner@gmail.com)  
