@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ridha Al-Furaiji
+## 👋 Hi, I'm Ridha Muneer
 
 ### 🚀 Frontend Developer | Software Engineer  
 
