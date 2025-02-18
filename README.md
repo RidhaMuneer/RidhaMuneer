@@ -1,53 +1,46 @@
-## 👋 Hi there
+## 👋 Hi, I'm Ridha Al-Furaiji
 
-## 💫 About Me:
-Full stack Web Developer<br>Software Engineer
+### 🚀 Frontend Developer | Software Engineer  
 
+📍 **Location:** Iraq  
+📩 **Email:** [ridhamuner@gmail.com](mailto:ridhamuner@gmail.com)  
+🔗 **Portfolio:** [GitHub - RidhaMuneer](https://github.com/RidhaMuneer)  
+💼 **LinkedIn:** [Ridha Muneer](https://www.linkedin.com/in/ridhamuneer/)  
 
-## 📞 Socials:
-<a href="mailto:ridhamuner@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=mail.ru" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/ridhamuneer/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+---
 
-## 🌐 Web Stack:
+## 🛠️ Tech Stack & Skills  
+
+### 🌐 Frontend Development  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+### 💾 Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💻 Other Stacks:
+### 🛠 Tools & Other Skills  
+![Jest](https://img.shields.io/badge/Jest-Testing-critical?style=for-the-badge&logo=jest)
+![Webpack](https://img.shields.io/badge/Webpack-Bundling-blue?style=for-the-badge&logo=webpack)  
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma)  
+![Linux CLI](https://img.shields.io/badge/Linux-CLI-important?style=for-the-badge&logo=linux)  
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+---
 
-## 🧰 Other Tools:
+## 📊 GitHub Stats  
 
-[![Webpack](https://img.shields.io/badge/Webpack-Bundling-blue?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
-[![Linux CLI](https://img.shields.io/badge/Linux%20CLI-Command%20Line-success?style=for-the-badge&logo=linux)](https://www.gnu.org/software/bash/)
-[![Jest](https://img.shields.io/badge/Jest-Testing-critical?style=for-the-badge&logo=jest)](https://jestjs.io/)
-[![npm](https://img.shields.io/badge/npm-Package%20Manager-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-Hosting-brightgreen?style=for-the-badge&logo=netlify)](https://www.netlify.com/) 
-[![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)](https://git-scm.com/)
-<!--
-**RidhaMuneer/RidhaMuneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RidhaMuneer&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhaMuneer&theme=tokyonight" height="180">
+</p>  
