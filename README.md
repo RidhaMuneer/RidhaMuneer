@@ -40,12 +40,3 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-Design-red?style=for-the-badge&logo=figma)  
 ![Linux CLI](https://img.shields.io/badge/Linux-CLI-important?style=for-the-badge&logo=linux)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RidhaMuneer&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://streak-stats.demolab.com/?user=RidhaMuneer&theme=tokyonight" height="180">
-</p>  
