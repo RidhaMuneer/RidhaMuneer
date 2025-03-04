@@ -5,6 +5,7 @@
 📍 **Location:** Iraq  
 📩 **Email:** [ridhamuner@gmail.com](mailto:ridhamuner@gmail.com)  
 🔗 **Portfolio:** al-furaiji.online
+<br/>
 💼 **LinkedIn:** [Ridha Muneer](https://www.linkedin.com/in/ridhamuneer/)  
 
 ---
