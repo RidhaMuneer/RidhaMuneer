@@ -4,7 +4,7 @@
 
 📍 **Location:** Iraq  
 📩 **Email:** [ridhamuner@gmail.com](mailto:ridhamuner@gmail.com)  
-🔗 **Portfolio:** [GitHub - RidhaMuneer](https://github.com/RidhaMuneer)  
+🔗 **Portfolio:** al-furaiji.online
 💼 **LinkedIn:** [Ridha Muneer](https://www.linkedin.com/in/ridhamuneer/)  
 
 ---
