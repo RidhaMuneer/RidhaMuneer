@@ -4,7 +4,6 @@
 
 📍 **Location:** Iraq  
 📩 **Email:** [ridhamuner@gmail.com](mailto:ridhamuner@gmail.com)  
-<br/>
 💼 **LinkedIn:** [Ridha Muneer](https://www.linkedin.com/in/ridhamuneer/)  
 
 ---
